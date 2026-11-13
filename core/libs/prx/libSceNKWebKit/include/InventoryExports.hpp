@@ -2803,7 +2803,6 @@ int APS5_VABI _ZN7WebCore17SQLiteTransactionD1Ev();
 int APS5_VABI _ZN7WebCore17SQLiteTransactionD2Ev();
 int APS5_VABI _ZN7WebCore17TextureMapperTile5paintERNS_13TextureMapperERKNS_20TransformationMatrixEfj();
 int APS5_VABI _ZN7WebCore17cacheDOMStructureERNS_17JSDOMGlobalObjectEPN3JSC9StructureEPKNS2_9ClassInfoE();
-int APS5_VABI _ZN7WebCore17computeCurrentAgeERKNS_16ResourceResponseEN3WTF8WallTimeE();
 int APS5_VABI _ZN7WebCore17cssValueKeywordIDEN3WTF10StringViewE();
 int APS5_VABI _ZN7WebCore17isStartOfDocumentERKNS_15VisiblePositionE();
 int APS5_VABI _ZN7WebCore17standardUserAgentERKN3WTF6StringES3_();
