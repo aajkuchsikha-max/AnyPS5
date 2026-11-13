@@ -8101,10 +8101,6 @@ int APS5_VABI _ZN7WebCore11DisplayList8FillPathC1ERKNS_4PathE() {
     NotImplemented_nid_no_patch(__func__);
 }
 
-int APS5_VABI _ZN7WebCore40defaultTextEncodingNameForSystemLanguageEv() {
-    NotImplemented_nid_no_patch(__func__);
-}
-
 int APS5_VABI _ZNK7WebCore11MediaSample13videoRotationEv() {
     NotImplemented_nid_no_patch(__func__);
 }
